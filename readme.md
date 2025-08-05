@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Flutter,Nextjs and websockets,**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/raj-singh18](www.linkedin.com/in/raj-singh18)
-
 - 💬 Ask me about **react, flutter and Nodejs**
 
 - 📫 How to reach me **rajsingh18904@gmail.com**
