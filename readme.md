@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Flutter app**
 
-- 🌱 I’m currently learning **Flutter,Nextjs and websockets,**
+- 🌱 I’m currently learning **Flutter, Nextjs and websockets**
 
 - 💬 Ask me about **react, flutter and Nodejs**
 
