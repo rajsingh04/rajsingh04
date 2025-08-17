@@ -18,4 +18,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rajsingh04&icon=4&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
