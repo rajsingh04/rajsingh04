@@ -1,21 +1,17 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=header"/>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Raj;I'm+from+India;Web+and+App+Developer" alt="Typing SVG" />
   </a>
 </div>
 <h3 align="center">I’m a full-stack developer skilled in Flutter, frontend (HTML, CSS, JS, React), and backend with Node.js and MongoDB. I build responsive web and mobile apps and love learning new technologies.</h3>
-<div style="text-align: center; margin: 30px 0;">
-  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="80%" alt="Neon Line Divider"/>
-</div>
+
 
 
 
 # 💫 About Me:
 🔭 I’m currently working on real time chatting app<br>🌱 I’m currently learning flutter, nodejs and web sockets<br>💬 Ask me about reactjs, express<br>
 
-<div style="text-align: center; margin: 30px 0;">
-  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="80%" alt="Neon Line Divider"/>
-</div>
 
 
 ## 🌐 Socials:
@@ -60,10 +56,6 @@
     </td>              
  </tr>
 </table>
-<div style="text-align: center; margin: 30px 0;">
-  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="80%" alt="Neon Line Divider"/>
-</div>
-
 
 
 # 📊 GitHub Stats:
