@@ -1,9 +1,8 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Raj;I'm+from+India;Currently+studying+at+Sangam+University" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Raj;I'm+from+India;Web+and+App+Developer" alt="Typing SVG" />
   </a>
 </div>
-
 <h3 align="center">I’m a full-stack developer skilled in Flutter, frontend (HTML, CSS, JS, React), and backend with Node.js and MongoDB. I build responsive web and mobile apps and love learning new technologies.</h3>
 
 # 💫 About Me:
