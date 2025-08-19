@@ -13,7 +13,6 @@
 🔭 I’m currently working on real time chatting app<br>🌱 I’m currently learning flutter, nodejs and web sockets<br>💬 Ask me about reactjs, express<br>
 
 
-
 ## 🌐 Socials:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/raaajsgn) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/raj-singh-08150a271) [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/rajsingh_05_) [![email](https://skillicons.dev/icons?i=gmail)](mailto:rajsingh18904@gmail.com) 
 <div style="text-align: center; margin: 30px 0;">
