@@ -10,7 +10,9 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on real time chatting app<br>🌱 I’m currently learning flutter, nodejs and web sockets<br>💬 Ask me about reactjs, express<br>
+🔭 I’m currently working on real time chatting app<br>
+🌱 I’m currently learning flutter, nodejs and web sockets<br>
+💬 Ask me about reactjs, express<br>
 
 
 ## 🌐 Socials:
